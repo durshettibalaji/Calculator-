@@ -37,11 +37,11 @@ body{
 } 
  #main{
     width: 30vw; 
-    height: 40%;
+    height: 45%;
     border-radius: 10px;
     /* background-color: #b0e3f91d; */
     border-radius: 20px;
-     /* box-shadow: rgb(18, 25, 231) 0 0 50px; */
+     box-shadow: rgb(189, 188, 188) 0px 15px 25px ,  rgba(216, 211, 211, 0.249) 0px 5px 10px;
      margin: 0 auto;
      padding: 3%;
 } 
@@ -51,7 +51,7 @@ body{
     height: 10%;
     border: 1px solid black;
     font-size: 32px;
-    /* background-color: #2d3436; */
+    background-color: #2d343686;
     color:rgb(226, 222, 222);
     padding: 5% 2%;
     margin-bottom: 2%;
@@ -76,3 +76,7 @@ body{
     font-weight: 1000;
     /* display: flex; */
   }
+
+
+
+
